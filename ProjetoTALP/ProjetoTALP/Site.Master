@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ProjetoTALP.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="pt">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - Helpme</title>
+    <link href="Scripts/bootstrap.css" rel="stylesheet" />
+    
+
+</head>
+<body>
+    <form runat="server">
+       <ul class="menu cf">
+  <li><a href="Principal.aspx">Home</a></li>
+  <li>
+    <a href="#">Cadastro</a>
+    <ul class="submenu">
+      <li><a href="Default.aspx">Instituição</a></li>
+      <li><a href="Doador.aspx">Doador</a></li>
+      
+    </ul>			
+  </li>
+  <li><a href="Transparencia.aspx">Trânsparência</a></li>
+  <li><a href="About.aspx">Sobre</a></li>
+  <li><a href="Contato.aspx">Contato</a></li>
+</ul>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - HELPME: Todos por um mundo melhor.</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>

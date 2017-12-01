@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTALP", "ProjetoTALP\ProjetoTALP.csproj", "{DC3B3752-A7EF-4B81-AE9A-403B45F3BE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTALP.Negocio", "ProjetoTALP.Negocio\ProjetoTALP.Negocio.csproj", "{1AE043A8-B267-4812-845E-EDF842973DFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC3B3752-A7EF-4B81-AE9A-403B45F3BE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3B3752-A7EF-4B81-AE9A-403B45F3BE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3B3752-A7EF-4B81-AE9A-403B45F3BE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3B3752-A7EF-4B81-AE9A-403B45F3BE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE043A8-B267-4812-845E-EDF842973DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE043A8-B267-4812-845E-EDF842973DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE043A8-B267-4812-845E-EDF842973DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE043A8-B267-4812-845E-EDF842973DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {881048D6-FCF9-46E0-B443-1D75A57DC889}
+	EndGlobalSection
+EndGlobal

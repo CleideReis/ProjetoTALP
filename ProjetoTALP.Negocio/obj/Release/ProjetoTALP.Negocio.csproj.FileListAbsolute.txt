@@ -1,0 +1,7 @@
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Release\ProjetoTALP.Negocio.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Release\ProjetoTALP.Negocio.pdb
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Release\ProjetoTALP.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Release\ProjetoTALP.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Release\ProjetoTALP.Negocio.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Release\ProjetoTALP.Negocio.pdb

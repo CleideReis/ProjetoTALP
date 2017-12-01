@@ -1,0 +1,7 @@
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Debug\ProjetoTALP.Negocio.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Debug\ProjetoTALP.Negocio.pdb
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Debug\ProjetoTALP.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Debug\ProjetoTALP.Negocio.dll
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Debug\ProjetoTALP.Negocio.pdb
+C:\Users\Cleide\source\repos\ProjetoTALP\ProjetoTALP.Negocio\obj\Debug\ProjetoTALP.Negocio.csprojResolveAssemblyReference.cache
